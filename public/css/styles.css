@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    background-color: #EAC926;;
+}
+h2{
+    font-size: 24px;
+}
+ds{
+    font-size: 16px;
+}
+precio{
+    font-size: 18px;
+}
+
+ic{
+    color: white;
+    font-size: 2em;
+      
+}
+
+icd{
+    color: black;
+    font-size: 2em;
+      
+}
+.burger-menu{
+    background-color: #1259c3;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 40px;
+    line-height: 40px;
+    height: 40px;
+}
+ul {
+	text-align: center;
+	display: inline-block;
+}
